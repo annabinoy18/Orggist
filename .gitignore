@@ -1,0 +1,22 @@
+# Python
+*.pyc
+__pycache__/
+.env
+
+# Java
+authentication/demo2/src/main/resources/application.properties
+
+# Node.js
+node_modules/
+.env
+
+# OS / Editor-specific
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# Build files
+target/
+dist/
+upload/
